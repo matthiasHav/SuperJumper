@@ -4,7 +4,7 @@ using System.Linq;
 
 using Duality;
 
-namespace Duality_
+namespace Super_Jumper
 {
 	public class YourCustomComponentType : Component
 	{
